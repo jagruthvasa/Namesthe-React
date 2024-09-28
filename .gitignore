@@ -7,3 +7,8 @@ ep4-hooks-useState/.vscode
 ep4-hooks-useState/node_modules
 ep4-hooks-useState/dist
 ep4-hooks-useState/.parcel-cache
+
+ep5-useEffect-shimmerUI/.vscode
+ep5-useEffect-shimmerUI/node_modules
+ep5-useEffect-shimmerUI/dist
+ep5-useEffect-shimmerUI/.parcel-cache
