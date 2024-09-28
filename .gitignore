@@ -2,3 +2,8 @@ ep3-swiggy-clone/.vscode
 ep3-swiggy-clone/node_modules
 ep3-swiggy-clone/dist
 ep3-swiggy-clone/.parcel-cache
+
+ep4-hooks-useState/.vscode
+ep4-hooks-useState/node_modules
+ep4-hooks-useState/dist
+ep4-hooks-useState/.parcel-cache
