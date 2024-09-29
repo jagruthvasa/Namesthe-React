@@ -12,3 +12,8 @@ ep5-useEffect-shimmerUI/.vscode
 ep5-useEffect-shimmerUI/node_modules
 ep5-useEffect-shimmerUI/dist
 ep5-useEffect-shimmerUI/.parcel-cache
+
+EP7-REACT-ROUTER/.vscode
+EP7-REACT-ROUTER/node_modules
+EP7-REACT-ROUTER/dist
+EP7-REACT-ROUTER/.parcel-cache
