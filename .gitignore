@@ -17,3 +17,10 @@ EP7-REACT-ROUTER/.vscode
 EP7-REACT-ROUTER/node_modules
 EP7-REACT-ROUTER/dist
 EP7-REACT-ROUTER/.parcel-cache
+
+.DS_Store
+.gitignore.swp
+ep3-swiggy-clone/.DS_Store
+ep4-hooks-useState/.DS_Store
+ep5-useEffect-shimmerUI/.DS_Store
+ep7-react-router/.DS_Store
