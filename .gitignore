@@ -29,3 +29,8 @@ ep3-swiggy-clone/.DS_Store
 ep4-hooks-useState/.DS_Store
 ep5-useEffect-shimmerUI/.DS_Store
 ep7-react-router/.DS_Store
+
+ep9-highorder-components/.vscode
+ep9-highorder-components/node_modules
+ep9-highorder-components/dist
+ep9-highorder-components/.parcel-cache
